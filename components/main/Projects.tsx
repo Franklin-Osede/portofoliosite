@@ -68,31 +68,6 @@ function Projects() {
           description="Beshak is a mission to bring resources, tools and experts that ensures you are never puzzled, and buy insurance with confidence."
           linkUrl="https://www.beshak.org/"
         />
-
-        <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Rust"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
-          linkUrl=""
-        />
-        <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Rust"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
-          linkUrl=""
-        />
-        <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Golang"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
-          linkUrl=""
-        />
-        <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Golang"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
-          linkUrl=""
-        />
       </div>
     </div>
   );
