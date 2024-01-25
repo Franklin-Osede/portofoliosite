@@ -46,15 +46,15 @@ function Projects() {
         />
         <ProjectCard
           src="/contentcreation.png"
-          title="Full-Stack Content AI - Mongo DB, Express js, React, Node "
+          title="Full-Stack Content AI -(Mongo DB, Express js, React, Node)"
           description="Paragraph is a SaaS App which is  platform that allows artist, writers, podcasters and beyond to build a sustain building and connecting with their community,"
           linkUrl="https://paragraph.xyz/"
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Phyton"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
-          linkUrl=""
+          src="/chia.png"
+          title="Decentralized App for blockchain transactions- (Mongo DB, Express, Angular, Node)"
+          description="Chia Network operates as a company focused on blockchain technology and smart transaction platforms. It includes a decentralized and secure blockchain and transaction platform."
+          linkUrl="https://www.chia.net/"
         />
         <ProjectCard
           src="/SpaceWebsite.png"
