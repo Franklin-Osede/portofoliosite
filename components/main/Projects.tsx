@@ -57,26 +57,39 @@ function Projects() {
           linkUrl="https://www.chia.net/"
         />
         <ProjectCard
+          src="/hotelapp.png"
+          title="Hotel booking portal application- (Angular)"
+          description="Hotel booking app which allows to select and book dates utilising Angular routing and all CRUD operations."
+          linkUrl="https://hotel-app-angular.netlify.app/"
+        />
+        <ProjectCard
           src="/insurance.png"
-          title="Insurance Comparision SaaS "
+          title="Insurance Comparision SaaS - (Vue js, Next js, SQL)"
           description="Beshak is a mission to bring resources, tools and experts that ensures you are never puzzled, and buy insurance with confidence."
           linkUrl="https://www.beshak.org/"
         />
+
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Phyton"
+          title="Rust"
           description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
           linkUrl=""
         />
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Phyton"
+          title="Rust"
           description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
           linkUrl=""
         />
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Phyton"
+          title="Golang"
+          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
+          linkUrl=""
+        />
+        <ProjectCard
+          src="/SpaceWebsite.png"
+          title="Golang"
           description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
           linkUrl=""
         />
