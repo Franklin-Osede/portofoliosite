@@ -57,6 +57,12 @@ function Projects() {
           linkUrl="https://www.chia.net/"
         />
         <ProjectCard
+          src="/insurance.png"
+          title="Insurance Comparision SaaS "
+          description="Beshak is a mission to bring resources, tools and experts that ensures you are never puzzled, and buy insurance with confidence."
+          linkUrl="https://www.beshak.org/"
+        />
+        <ProjectCard
           src="/SpaceWebsite.png"
           title="Phyton"
           description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
