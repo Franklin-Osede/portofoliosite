@@ -12,9 +12,9 @@ function ProjectCard({ src, title, description, linkUrl }: Props) {
   return (
     <a
       href={linkUrl}
-      target="blank"
+      target="_blank"
       rel="noopener noreferrer"
-      className="max-w-[calc(33% -20px)]"
+      className="block w-full md:w-1/3 p-2"
     >
       <div className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]">
         <Image
