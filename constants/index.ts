@@ -83,14 +83,17 @@ export const Socials = [
   {
     name: 'Linkedin',
     src: '/linkedin.png',
+    url: 'https://www.linkedin.com/in/franklinosede/',
   },
   {
     name: 'GitHub',
     src: '/github.jpeg',
+    url: 'https://github.com/fran1014',
   },
   {
     name: 'Discord',
     src: '/discord.svg',
+    url: 'https://discord.com/channels/@me',
   },
 ];
 
