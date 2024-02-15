@@ -12,7 +12,7 @@ export const Skill_data = [
     height: 80,
   },
   {
-    skill_name: 'Java Script',
+    skill_name: 'JavaScript',
     Image: '/js.png',
     width: 65,
     height: 65,
@@ -36,10 +36,22 @@ export const Skill_data = [
     height: 80,
   },
   {
-    skill_name: 'React Query',
-    Image: '/reactquery.png',
+    skill_name: 'Solidity',
+    Image: '/solidity.svg',
     width: 80,
     height: 80,
+  },
+  {
+    skill_name: 'Rust',
+    Image: '/rust.png',
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: 'Ethereum',
+    Image: '/ethereum.png',
+    width: 60,
+    height: 60,
   },
   {
     skill_name: 'Type Script',
@@ -48,34 +60,23 @@ export const Skill_data = [
     height: 80,
   },
   {
-    skill_name: 'Next js 13',
+    skill_name: 'Next js',
     Image: '/next.png',
     width: 80,
     height: 80,
   },
-  {
-    skill_name: 'Framer Motion',
-    Image: '/framer.png',
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: 'Stripe Payment',
-    Image: '/stripe.webp',
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: 'Node js',
-    Image: '/node-js.png',
-    width: 80,
-    height: 80,
-  },
+
   {
     skill_name: 'Mongo db',
     Image: '/mongodb.png',
     width: 40,
     height: 40,
+  },
+  {
+    skill_name: 'SQL',
+    Image: '/sql.png',
+    width: 55,
+    height: 90,
   },
 ];
 
@@ -141,20 +142,8 @@ export const Frontend_skill = [
     height: 80,
   },
   {
-    skill_name: 'React Query',
-    Image: '/reactquery.png',
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: 'Type Script',
-    Image: '/ts.png',
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: 'Next js 13',
-    Image: '/next.png',
+    skill_name: 'Vue',
+    Image: '/vue.png',
     width: 80,
     height: 80,
   },
@@ -174,16 +163,22 @@ export const Backend_skill = [
     height: 80,
   },
   {
-    skill_name: 'Mongo db',
-    Image: '/mongodb.png',
-    width: 40,
-    height: 40,
+    skill_name: 'Angular',
+    Image: '/angular.png',
+    width: 70,
+    height: 70,
   },
   {
-    skill_name: 'Fire base',
-    Image: '/Firebase.png',
-    width: 55,
-    height: 55,
+    skill_name: 'Google Cloud',
+    Image: '/googlecloud.png',
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: 'AWS',
+    Image: '/aws.png',
+    width: 120,
+    height: 100,
   },
   {
     skill_name: 'Postger SQL',
@@ -197,14 +192,9 @@ export const Backend_skill = [
     width: 70,
     height: 70,
   },
+
   {
-    skill_name: 'Prisma',
-    Image: '/prisma.webp',
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: 'Graphql',
+    skill_name: 'SQL',
     Image: '/graphql.png',
     width: 80,
     height: 80,
@@ -218,12 +208,7 @@ export const Full_stack = [
     width: 70,
     height: 70,
   },
-  {
-    skill_name: 'Tauri',
-    Image: '/tauri.svg',
-    width: 70,
-    height: 70,
-  },
+
   {
     skill_name: 'Docker',
     Image: '/docker.webp',
@@ -232,18 +217,30 @@ export const Full_stack = [
   },
 
   {
-    skill_name: 'Figma',
-    Image: '/figma.png',
-    width: 50,
-    height: 50,
+    skill_name: 'PHP',
+    Image: '/php.png',
+    width: 90,
+    height: 90,
   },
-];
-
-export const Other_skill = [
+  {
+    skill_name: 'Lavarel',
+    Image: '/lavarel.png',
+    width: 60,
+    height: 60,
+  },
   {
     skill_name: 'Go',
     Image: '/go.png',
     width: 60,
     height: 60,
+  },
+];
+
+export const Other_skill = [
+  {
+    skill_name: 'Blockchain',
+    Image: '/blockchain.png',
+    width: 170,
+    height: 90,
   },
 ];
