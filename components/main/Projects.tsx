@@ -49,14 +49,14 @@ function Projects() {
 
         <ProjectCard
           src="/netsport.png"
-          title="Full-Stack Events Sport App - (React, )"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
+          title="Full-Stack Events Sport App - (Next js, React,Node js, TypeScript, SQL, AWS)"
+          description="SaaS app to register for socialising sport events, where users can authenticate, make online reservations and payments. I used technologies to build components, relational database such as SQL, and AWS products to "
           linkUrl="https://netsport.app/"
         />
         <ProjectCard
           src="/contentcreation.png"
           title="Full-Stack Content AI -(Mongo DB, Express js, React, Node)"
-          description="Paragraph is a SaaS App which is  platform that allows artist, writers, podcasters and beyond to build a sustain building and connecting with their community,"
+          description="Paragraph is a SaaS App which is  platform that allows artist, writers, podcasters and beyond to build a sustain building and connecting with their community."
           linkUrl="https://paragraph.xyz/"
         />
 
