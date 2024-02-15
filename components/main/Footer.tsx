@@ -9,7 +9,7 @@ function Footer() {
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]"> Community </div>
             <a
-              href="https://discord.com"
+              href="https://discord.com/channels/@me"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center my-[15px] cursor-pointer"
