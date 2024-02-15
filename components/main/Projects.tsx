@@ -50,7 +50,7 @@ function Projects() {
         <ProjectCard
           src="/netsport.png"
           title="Full-Stack Events Sport App - (Next js, React,Node js, TypeScript, SQL, AWS)"
-          description="SaaS app to register for socialising sport events, where users can authenticate, make online reservations and payments. I used technologies to build components, relational database such as SQL, and AWS products to scale up the App. "
+          description="SaaS app to register for socialising sport events, where users can authenticate, make online reservations and payments. I used technologies to build components, relational database such as SQL, and AWS. "
           linkUrl="https://netsport.app/"
         />
         <ProjectCard
