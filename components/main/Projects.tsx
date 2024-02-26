@@ -15,6 +15,12 @@ function Projects() {
           linkUrl="https://cryptoexchange.on.fleek.co/"
         />
         <ProjectCard
+          src="/ticket.png"
+          title="Ticketmaster Events DAap"
+          description="This application allows users to explore upcoming events, view available dates,select and do transactionsto receive a digital ticket in the form of a unique NFT directly into their wallet."
+          linkUrl="https://tikeckmasterweb3.on.fleek.co/"
+        />
+        <ProjectCard
           src="/ecommerce.png"
           title="Ecommerce Decentralize DAap"
           description="Ecommerce DAap to purchase through Blockchain technology. Each product purchase triggers a smart contract that manages the order, ensuring the merchant fulfills and delivers it on-chain."
