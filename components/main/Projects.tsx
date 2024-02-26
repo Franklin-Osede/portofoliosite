@@ -15,10 +15,10 @@ function Projects() {
           linkUrl="https://cryptoexchange.on.fleek.co/"
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
-          linkUrl=""
+          src="/ecommerce.png"
+          title="Ecommerce Decentralize DAap"
+          description="Ecommerce DAap to purchase through Blockchain technology. Each product purchase triggers a smart contract that manages the order, ensuring the merchant fulfills and delivers it on-chain."
+          linkUrl="https://ecommercedaap.on.fleek.co/"
         />
         <ProjectCard
           src="/chia.png"
