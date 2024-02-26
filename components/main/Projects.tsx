@@ -10,25 +10,25 @@ function Projects() {
       <div className="flex flex-wrap justify-center gap-10 px-10">
         <ProjectCard
           src="/web3.png"
-          title="Web3 Decentralized Crypto Exchange-(Solidity,React, JavaScript, Hardhat, Ether js, Node js)"
+          title="Web3 Decentralized Crypto Exchange-(Solidity , React js, JavaScript, Hardhat, Ether js, Node js)"
           description="DAap crypto exchange to trade tokens and interact with the Blockchain. Coded from scratch using different technologies."
           linkUrl="https://cryptoexchange.on.fleek.co/"
         />
         <ProjectCard
           src="/ticket.png"
-          title="Ticketmaster Events DAap"
+          title="Ticketmaster Events DAap - (Solidity, JavaScript, Node js, Ether js, Hardhat, React js)"
           description="This application allows users to explore upcoming events, view available dates,select and do transactionsto receive a digital ticket in the form of a unique NFT directly into their wallet."
           linkUrl="https://tikeckmasterweb3.on.fleek.co/"
         />
         <ProjectCard
           src="/ecommerce.png"
-          title="Ecommerce Decentralize DAap"
+          title="Ecommerce DAap - (Solidity, JavaScript, React js, HardHat, Ether js) "
           description="Ecommerce DAap to purchase through Blockchain technology. Each product purchase triggers a smart contract that manages the order, ensuring the merchant fulfills and delivers it on-chain."
           linkUrl="https://ecommercedaap.on.fleek.co/"
         />
         <ProjectCard
           src="/chia.png"
-          title="Decentralized App for blockchain transactions- (Mongo DB, Express, Angular, Node)"
+          title="Decentralized App for blockchain transactions- (Mongo DB, Express, Angular, Node js)"
           description="Chia Network operates as a company focused on blockchain technology and smart transaction platforms. It includes a decentralized and secure blockchain and transaction platform."
           linkUrl="https://www.chia.net/"
         />
@@ -41,8 +41,8 @@ function Projects() {
 
         <ProjectCard
           src="/seoboost.png"
-          title="Phyton"
-          description="Lorem ipsum dolor sir amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ur labore et dolore magna alique"
+          title="SaaS Technical SEO - (Next js, Shadcn, React js, TypeScript, Node js, Google Cloud)"
+          description="SaaS application to facilitate and automate SEO technical tasks to improve analytics reports and performance insights. "
           linkUrl=""
         />
 
