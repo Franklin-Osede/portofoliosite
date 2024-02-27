@@ -11,7 +11,7 @@ function Projects() {
         <ProjectCard
           src="/web3.png"
           title="Web3 Decentralized Crypto Exchange-(Solidity , React js, JavaScript, Hardhat, Ether js, Node js)"
-          description="DAap crypto exchange to trade tokens and interact with the Blockchain. Coded from scratch using different technologies."
+          description="DAap crypto exchange to trade tokens and interact with the Blockchain. Coded from scratch using different technologies allowing users mutilple trading interactions and functionalities."
           linkUrl="https://cryptoexchange.on.fleek.co/"
         />
         <ProjectCard
