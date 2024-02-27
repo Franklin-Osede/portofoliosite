@@ -17,7 +17,7 @@ function Projects() {
         <ProjectCard
           src="/ticket.png"
           title="Ticketmaster Events DAap - (Solidity, JavaScript, Node js, Ether js, Hardhat, React js)"
-          description="This application allows users to explore upcoming events, view available dates,select and do transactionsto receive a digital ticket in the form of a unique NFT directly into their wallet."
+          description="This application allows users to explore upcoming events, view available dates, and select and do transactions to receive a digital ticket in the form of a unique NFT directly into their wallet."
           linkUrl="https://tikeckmasterweb3.on.fleek.co/"
         />
         <ProjectCard
