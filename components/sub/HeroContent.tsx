@@ -12,16 +12,16 @@ function HeroContent() {
     <motion.div
       initial="hidden"
       animate="visible"
-      className="flex flex-row items-center justify-center px-20 mt-40 w-full z-[20]"
+      className="flex flex-col lg:flex-row items-center justify-center w-4/5 gap-x-12 mx-auto z-[20]"
     >
-      <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start">
+      <div className="h-full w-full flex flex-col gap-5 justify-center text-start">
         <motion.div
           variants={slideInFromTop}
-          className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9] "
+          className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]"
         >
-          <SparklesIcon className="text-[#b49bff] mr[10px] h-5 w-5 " />
+          <SparklesIcon className="text-[#b49bff] mr-1 h-5 w-5 " />
           <h1 className="Welcome-text text-[13px]">
-            Blockchain, FullStack, Cloud Developer Portfolio
+            Blockchain, FullStack, Cloud Developer
           </h1>
         </motion.div>
         <motion.div
@@ -54,7 +54,7 @@ function HeroContent() {
       </div>
       <motion.div
         variants={slideInFromRight(0.8)}
-        className="w-full h.full flex justify center items-center"
+        className="mt-12 lg:mt-0 w-full h.full flex justify center items-center"
       >
         <Image
           src="/mainIconsdark.svg"
