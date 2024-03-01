@@ -41,7 +41,7 @@ function Encryption() {
           <h1 className="Welcome-text text-[12px]">Encryption</h1>
         </div>
       </div>
-      <div className="absolute top-[10%] z-[20] px-4">
+      <div className="absolute z-[20] bottom-[10px] px-[5px]">
         <div className="cursive text-[20px] font-medium text-center text-gray-300">
           Secure your data with end-to-end encryption
         </div>
