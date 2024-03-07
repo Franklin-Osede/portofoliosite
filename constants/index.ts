@@ -192,13 +192,6 @@ export const Backend_skill = [
     width: 70,
     height: 70,
   },
-
-  {
-    skill_name: 'SQL',
-    Image: '/graphql.png',
-    width: 80,
-    height: 80,
-  },
 ];
 
 export const Full_stack = [
