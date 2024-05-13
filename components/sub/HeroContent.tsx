@@ -41,8 +41,8 @@ function HeroContent() {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Blockchain, Full Stack & Cloud Software Developer Engineer
-          with experience in Web3, Tokens, Exchange, NFT, Automation Bots, Web2
+          I&apos;m a Full Stack Software & Cloud Developer Engineer
+          with experience in Front-End, Back-End, Data, Web3
           and Cloud Software Development. Check out my projects and skills.
         </motion.p>
         <motion.a
